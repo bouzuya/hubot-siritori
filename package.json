@@ -1,6 +1,6 @@
 {
   "name": "hubot-siritori",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A Hubot script to play siritori",
   "main": "index.js",
   "scripts": {
